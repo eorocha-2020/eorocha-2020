@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Web FullStack<br><br>- 🔭 Sou desenvolvedor fullstack há 4 anos<br>- 📚 Atualmente uso php e laravel para backend e vuejs para frontend e postgre para banco de dados<br>- ⚡ Gosto muito de aprender novas tecnologias nas horas vagas</p>
+<p align="left">Desenvolvedor Web FullStack<br><br>- 🔭 Sou desenvolvedor fullstack há 4 anos<br>- 📚 Atualmente uso PHP e Laravel para backend e VueJS para frontend e PostgreSQL para banco de dados<br>- ⚡ Gosto muito de aprender novas tecnologias nas horas vagas</p>
 
 ###
 
