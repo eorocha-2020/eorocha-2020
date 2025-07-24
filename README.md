@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">Me chamo Lucas e sou aqui de Porto Alegre.<br><br>- 🔭 Sou desenvolvedor fullstack há 4 anos<br>- 📚 Atualmente uso php e laravel para backend e vuejs para frontend<br>- ⚡ Gosto muito de aprender novas tecnologias nas horas vagas</p>
+<p align="left">Desenvolvedor Web FullStack<br><br>- 🔭 Sou desenvolvedor fullstack há 4 anos<br>- 📚 Atualmente uso php e laravel para backend e vuejs para frontend e postgre para banco de dados<br>- ⚡ Gosto muito de aprender novas tecnologias nas horas vagas</p>
 
 ###
 
